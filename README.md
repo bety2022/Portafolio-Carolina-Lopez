@@ -34,7 +34,7 @@ Mi misión es crear soluciones que faciliten la vida de las personas, haciéndol
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/Porfolio-Carolina-Lopez/" >
+    <a href="https://bety2022.github.io/Portafolio-Carolina-Lopez/" >
       🔗 Visitar Mi portafolio
     </a>
 </div>
