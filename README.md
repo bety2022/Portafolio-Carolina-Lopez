@@ -24,7 +24,7 @@ Aplicaciòn de conocimientos en estilización, responsividad, HTML y javascript,
 Desarrollo proyectos desde cero utilizando tecnologías Front End, y bases de datos, tanto para aplicaciones web como móviles. 
 Mi misión es crear soluciones que faciliten la vida de las personas, haciéndolas eficientes, divertidas y fáciles.
 <p align="center" >
-     <img width="600" heigth="300" src="Carolinalopezpor/assets/images/retrato.png">
+     <img width="600" heigth="300" src="assets/images/retrato.png">
 </p>
 
 <br />
