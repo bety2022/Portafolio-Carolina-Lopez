@@ -13,7 +13,7 @@ Aplicaciòn de conocimientos en estilización, responsividad, HTML y javascript,
 
 
 <p align="center" >
-     <img width="400" heigth="300" src="AluraGeek-main/assets/icon/Badge-AluraGeek.png">
+     <img width="400" heigth="300" src="assets/images/Insignia-Badge-Portfólio.png">
 </p>
 
 
